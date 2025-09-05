@@ -30,7 +30,28 @@
 5. [⚠️ 5. Trouble Shooting](#-5-trouble-shooting)
 6. [🍺 6. 프로젝트 회고록](#-6-프로젝트-회고록)
 
+## 📂 프로젝트 파일 구조
 
+```
+charly-market/
+│
+├── .github/
+│   └── ISSUE_TEMPLATE/         # 이슈 템플릿 관련 파일들
+│
+├── Docs/                       # 문서 및 기획 관련 내용
+│
+├── Integration Test/           # 통합 테스트 관련 코드
+│
+├── db/                         # 데이터베이스 관련 파일들
+│
+├── flowchart/                  # 플로우차트 이미지 또는 문서
+│
+├── README.md                   # 현재 README 파일
+│
+├── 찰리 프로젝트 기획서.md     # 프로젝트 기획서 한국어 문서
+│
+└── (그 외 추가된 파일 혹은 디렉토리들)
+```
 
 ---
 
